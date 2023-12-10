@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859848203351",
+    "project_id": "mobile-apps-43c1e",
+    "storage_bucket": "mobile-apps-43c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859848203351:android:73dd62b3ad1e248f33d712",
+        "android_client_info": {
+          "package_name": "com.company.reviewfoodmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiWPTD2fHJ4dvqM1S2eNm6ruz28aS9DQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
